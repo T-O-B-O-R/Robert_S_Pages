@@ -1,3 +1,7 @@
+---
+title: this is a title
+---
+
 ## Welcome to my blog
 
 
